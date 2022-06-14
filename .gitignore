@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+FileWatcher/__astcache/
+*.~dsk
+FileWatcher/__history/
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.map
+*.pdi
+*.res
+*.tds
+FileWatcher/FileWatcher.cbproj.local
+FileWatcher/FileWatcher.dsk
+FileWatcher/FileWatcher.twopts
