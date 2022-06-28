@@ -39,4 +39,13 @@ object FormFileWatcher: TFormFileWatcher
     Anchors = [akLeft, akTop, akRight, akBottom]
     TabOrder = 2
   end
+  object btnMitThread: TButton
+    Left = 103
+    Top = 37
+    Width = 89
+    Height = 25
+    Caption = 'Mit Thread'
+    TabOrder = 3
+    OnClick = btnMitThreadClick
+  end
 end

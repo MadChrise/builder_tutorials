@@ -44,3 +44,6 @@ FileWatcher/__history/
 FileWatcher/FileWatcher.cbproj.local
 FileWatcher/FileWatcher.dsk
 FileWatcher/FileWatcher.twopts
+
+# Folders
+__recovery/
